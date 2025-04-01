@@ -47,10 +47,10 @@ const donationData = [
 ];
 
 const distributionData = [
-  { name: 'Food', value: 400 },
-  { name: 'Clothes', value: 300 },
-  { name: 'Medical', value: 200 },
-  { name: 'Education', value: 100 },
+  { name: 'Rice & Grains', value: 400 },
+  { name: 'Vegetables & Fruits', value: 300 },
+  { name: 'Dairy & Proteins', value: 200 },
+  { name: 'Ready Meals', value: 100 }
 ];
 
 const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042'];
